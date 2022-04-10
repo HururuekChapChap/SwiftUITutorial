@@ -1,4 +1,4 @@
 # SwiftUITutorial
-그냥 SwiftUI 공부잘 되는지 확인 
+그냥 SwiftUI 공부
 
-두번째 커밋
+1. Stanford Univ Lector 1 ~ 2
