@@ -7,3 +7,5 @@
 
 1. Stacnford Univ Lector 3
 	git Auth : https://curryyou.tistory.com/344
+
+	- SwiftUI Table과 CollectionView Study
