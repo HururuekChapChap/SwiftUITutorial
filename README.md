@@ -9,3 +9,5 @@
 	git Auth : https://curryyou.tistory.com/344
 
 	- SwiftUI Table과 CollectionView Study
+
+2. SwiftUI Table Grid와 Published에 대해 공부 
